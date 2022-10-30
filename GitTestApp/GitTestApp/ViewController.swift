@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         print("я второй, но не последний")
         print("блин я последний")
         
-        
+        print("bug fixed")
         
     }
 }
