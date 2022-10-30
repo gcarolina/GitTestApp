@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("я второй, но не последний")
+        print("что-то от второго")
     }
 
 
